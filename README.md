@@ -1,16 +1,58 @@
-## Hi there 👋
+# Donard Uka  
+**MSc Computer Science - University of Liverpool (2025 - 2026)**  
+**BEng Electronic & Computer Engineering - University of Kent (2023 - 2025)**  
 
-<!--
-**donarduka/donarduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+I’m an aspiring **AI & Quantitative Engineer** with a focus on **machine learning, portfolio optimisation, and intelligent automation**.  
+My academic path combines software engineering, robotics, and data science — with the goal of building AI systems that make smarter financial and industrial decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing machine-learning models for **quantitative finance** and **autonomous systems**.
+
+---
+
+## Projects & Research
+
+### [ML Portfolio Optimiser](https://github.com/donarduka/ml-portfolio-optimiser)
+Machine-learning based **portfolio optimisation** tool exploring modern risk metrics and efficient frontier analysis.  
+*Python · Pandas · PyPortfolioOpt · scikit-learn*
+
+### AI-Powered Human-Robot Interaction
+Integrated ChatGPT with an **Omron TM5-900 collaborative robot** using MATLAB middleware, enabling natural-language robotic control.  
+*Python · MATLAB · NLP · RPA*
+
+### Automated Medication Dispenser
+Python-based IoT device for dose tracking and remote monitoring with RFID security.  
+*Python · IoT · Embedded Systems · PCB Design*
+
+---
+
+## Technical Stack
+**Programming:** Python · MATLAB · C++  
+**AI & Data:** scikit-learn · PyTorch · NumPy · Pandas · PyPortfolioOpt  
+**Domains:** Quantitative Modeling · Machine Learning · Optimisation · Robotics · IoT  
+**Other Tools:** Git · Linux · Omron TMFlow · PCB Design  
+
+---
+
+## Certifications & Courses
+- Google Cybersecurity Professional Certificate (2024)  
+- AI in Healthcare Specialisation – Stanford University (2024)  
+- Networks and Security Fundamentals (2024)  
+
+---
+
+## Current Focus
+- Machine Learning for Finance & Portfolio Optimization  
+- Reinforcement Learning for Autonomous Decision Making  
+- Applied AI for Healthcare & Robotics  
+
+---
+
+## Interests
+Artificial Intelligence · Quantitative Finance · Robotics · Automation · Emerging Tech Trends  
+
+---
+
+*“Turning intelligent algorithms into real-world impact.”*
