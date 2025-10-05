@@ -44,7 +44,7 @@ Python-based IoT device for dose tracking and remote monitoring with RFID securi
 ---
 
 ## Current Focus
-- Machine Learning for Finance & Portfolio Optimization  
+- Machine Learning for Finance & Portfolio Optimisation  
 - Reinforcement Learning for Autonomous Decision Making  
 - Applied AI for Healthcare & Robotics  
 
