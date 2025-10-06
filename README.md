@@ -1,6 +1,6 @@
 # Donard Uka  
-**MSc Computer Science - University of Liverpool (2025 - 2026)**  
-**BEng Electronic & Computer Engineering - University of Kent (2023 - 2025)**  
+**MSc Computer Science - University of Liverpool**  
+**BEng Electronic & Computer Engineering - University of Kent**  
 
 ---
 
