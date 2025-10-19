@@ -20,7 +20,7 @@ A **Hidden Markov Model–based** optimiser that detects hidden market regimes (
 Includes clean backtesting, monthly rebalancing, transaction costs, and CI-tested reproducibility.  
 *Python · pandas · NumPy · hmmlearn · GitHub Actions · pytest*  
 
-###�[ML Portfolio Optimiser](https://github.com/donarduka/ml-portfolio-optimiser)
+### [ML Portfolio Optimiser](https://github.com/donarduka/ml-portfolio-optimiser)
 Machine-learning-based **portfolio optimisation** framework exploring risk-adjusted returns and efficient frontier analysis.  
 Implements Monte Carlo simulations, risk metrics, and dynamic weighting strategies.  
 *Python · pandas · PyPortfolioOpt · scikit-learn*  
