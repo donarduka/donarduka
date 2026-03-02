@@ -1,6 +1,7 @@
 # Donard Uka
 
 **MSc Computer Science – University of Liverpool**
+
 **BEng Electronic & Computer Engineering – University of Kent**
 
 ---
