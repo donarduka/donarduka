@@ -1,54 +1,55 @@
 # Donard Uka
 
-**MSc Computer Science – University of Liverpool**
-
+**MSc Computer Science – University of Liverpool**  
 **BEng Electronic & Computer Engineering – University of Kent**
 
 ---
 
 ## About
 
-ML engineer focused on **machine learning**, **portfolio optimisation**, and **intelligent automation**. I combine a background in software engineering, robotics, and applied data science to build systems that make smarter, data-driven decisions.
+Machine learning engineer with a focus on deep learning, transformer 
+architecture and reinforcement learning. Background in electronic and 
+computer engineering with hands-on experience running experiments on 
+HPC hardware.
 
-Currently developing models for **quantitative finance** and **autonomous decision-making systems**.
+Open to ML Engineer roles from September 2026.
 
 ---
 
 ## Projects
 
-### [Regime-Switching Portfolio Optimiser](https://github.com/donarduka/regime-switching-portfolio)
-HMM-based optimiser that detects hidden market regimes (bull, bear, volatile) and adapts allocations dynamically using mean-variance optimisation. Includes rolling out-of-sample backtest, monthly rebalancing, transaction costs, and volatility targeting.
+### [Beyond Quadratic: Efficient Transformer Attention](https://github.com/donarduka/efficient-transformer-attention)
+MSc dissertation implementing and benchmarking Longformer, Linformer 
+and Reformer against standard full attention on the Long Range Arena 
+benchmark. Experiments conducted on NVIDIA H100 GPUs via Barkla HPC.
 
-*Python · pandas · NumPy · hmmlearn · scikit-learn · pytest*
+*Python · PyTorch · HPC · SLURM*
 
-### [ML Portfolio Optimiser](https://github.com/donarduka/ml-portfolio-optimiser)
-Regime-based portfolio optimisation system using K-Means clustering to detect market environments and mean-variance optimisation with Ledoit-Wolf shrinkage covariance to allocate weights.
+### [LunarLander DQN](https://github.com/donarduka/lunarlander-dqn)
+Deep Q-Network agent for LunarLander-v2 with experience replay, target 
+network with soft updates, Huber loss and gradient clipping.
 
-*Python · pandas · NumPy · cvxpy · scikit-learn*
+*Python · PyTorch · Reinforcement Learning*
 
-### AI-Powered Human-Robot Interaction
-Integrated OpenAI ChatGPT with an Omron TM5-900 collaborative robot via MATLAB middleware, enabling natural-language robotic control and adaptive task automation.
+### [Multi-Armed Bandit](https://github.com/donarduka/multi-armed-bandit)
+Epsilon-greedy bandit across 5, 10 and 20 arm settings evaluating 
+exploration-exploitation trade-offs.
 
-*Python · MATLAB · NLP*
-
-### IoT Medication Dispenser
-Python-based IoT device for dosage tracking and remote monitoring with RFID authentication and PCB-level reliability improvements.
-
-*Python · IoT · Embedded Systems · PCB Design*
+*Python · NumPy*
 
 ---
 
 ## Technical Stack
 
-**Programming:** Python · MATLAB · C++ · Java · SQL
-**AI & Data:** scikit-learn · NumPy · pandas · hmmlearn · cvxpy · Matplotlib
-**Domains:** Machine Learning · Quantitative Modelling · Optimisation · Robotics · IoT
-**Tools:** Git · Linux · VS Code · Jupyter
+**Programming:** Python · C++ · SQL · Java  
+**Frameworks:** PyTorch · scikit-learn · NumPy · Matplotlib  
+**Tools:** Git · Linux · Jupyter · SLURM/HPC · VS Code  
+**Areas:** Machine Learning · Deep Learning · NLP · Transformer Architecture · HPC
 
 ---
 
 ## Current Focus
 
-- Machine Learning for Finance & Portfolio Optimisation
-- Reinforcement Learning for Autonomous Decision-Making
-- Applied AI for Robotics
+- Efficient Transformer Attention Mechanisms
+- Deep Reinforcement Learning
+- Large Language Models
