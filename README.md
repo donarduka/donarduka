@@ -2,8 +2,7 @@
 
 MSc Computer Science, University of Liverpool. Focused on ML Engineering and efficient deep learning systems.
 BEng Electronic & Computer Engineering → MSc Computer Science.
-Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Docker · Git
-
+Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Linux/HPC · Git
 ---
 
 ### Featured Project
