@@ -3,11 +3,13 @@
 MSc Computer Science, University of Liverpool. Focused on ML Engineering and efficient deep learning systems.
 BEng Electronic & Computer Engineering → MSc Computer Science.
 Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Linux/HPC · Git
+
 ---
 
 ### Featured Project
 
 **Beyond Quadratic: Efficient Transformer Attention** *(repo link coming soon)*
+
 Implemented four Transformer attention mechanisms (standard, Longformer, Linformer, Reformer) entirely from scratch in PyTorch — no pre-built libraries — and benchmarked them on an HPC cluster using NVIDIA H100 GPUs.
 
 - Achieved a **~10x reduction in peak memory usage** (8,460MB → 841MB) with comparable accuracy
