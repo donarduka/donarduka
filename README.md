@@ -1,55 +1,33 @@
 # Donard Uka
 
-**MSc Computer Science – University of Liverpool**  
-**BEng Electronic & Computer Engineering – University of Kent**
+MSc Computer Science, University of Liverpool. Focused on ML Engineering and efficient deep learning systems.
+BEng Electronic & Computer Engineering → MSc Computer Science.
+Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Docker · Git
 
 ---
 
-## About
+### Featured Project
 
-Machine learning engineer with a focus on deep learning, transformer 
-architecture and reinforcement learning. Background in electronic and 
-computer engineering with hands-on experience running experiments on 
-HPC hardware.
+**Beyond Quadratic: Efficient Transformer Attention** *(repo link coming soon)*
+Implemented four Transformer attention mechanisms (standard, Longformer, Linformer, Reformer) entirely from scratch in PyTorch — no pre-built libraries — and benchmarked them on an HPC cluster using NVIDIA H100 GPUs.
 
-Open to ML Engineer roles from September 2026.
+- Achieved a **~10x reduction in peak memory usage** (8,460MB → 841MB) with comparable accuracy
+- 18 unit tests across all four variants, validating correctness before evaluation
+- Found that standard attention becomes **completely infeasible** (OOM) at longer sequence lengths — an empirical finding, not just a replication
+- Full results, training curves, and complexity analysis in the repo
 
----
-
-## Projects
-
-### [Beyond Quadratic: Efficient Transformer Attention](https://github.com/donarduka/efficient-transformer-attention)
-MSc dissertation implementing and benchmarking Longformer, Linformer 
-and Reformer against standard full attention on the Long Range Arena 
-benchmark. Experiments conducted on NVIDIA H100 GPUs via Barkla HPC.
-
-*Python · PyTorch · HPC · SLURM*
-
-### [LunarLander DQN](https://github.com/donarduka/lunarlander-dqn)
-Deep Q-Network agent for LunarLander-v2 with experience replay, target 
-network with soft updates, Huber loss and gradient clipping.
-
-*Python · PyTorch · Reinforcement Learning*
-
-### [Multi-Armed Bandit](https://github.com/donarduka/multi-armed-bandit)
-Epsilon-greedy bandit across 5, 10 and 20 arm settings evaluating 
-exploration-exploitation trade-offs.
-
-*Python · NumPy*
+`PyTorch` `Deep Learning` `HPC` `Transformers` `Experiment Design`
 
 ---
 
-## Technical Stack
+### Tech Stack
 
-**Programming:** Python · C++ · SQL · Java  
-**Frameworks:** PyTorch · scikit-learn · NumPy · Matplotlib  
-**Tools:** Git · Linux · Jupyter · SLURM/HPC · VS Code  
-**Areas:** Machine Learning · Deep Learning · NLP · Transformer Architecture · HPC
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Current Focus
-
-- Efficient Transformer Attention Mechanisms
-- Deep Reinforcement Learning
-- Large Language Models
+Reach me on [LinkedIn](https://www.linkedin.com/in/donard-uka/)
