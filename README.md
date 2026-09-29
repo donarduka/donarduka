@@ -8,7 +8,7 @@ Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Linux/HPC · 
 
 ### Featured Project
 
-**Beyond Quadratic: Efficient Transformer Attention** *(repo link coming soon)*
+**Beyond Quadratic: Efficient Transformer Attention** *(private repo at the moment - happy to share access on request)*
 
 Implemented four Transformer attention mechanisms (standard, Longformer, Linformer, Reformer) entirely from scratch in PyTorch — no pre-built libraries — and benchmarked them on an HPC cluster using NVIDIA H100 GPUs.
 
