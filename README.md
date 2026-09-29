@@ -2,13 +2,13 @@
 
 MSc Computer Science, University of Liverpool. Focused on ML Engineering and efficient deep learning systems.
 BEng Electronic & Computer Engineering → MSc Computer Science.
-Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · Linux/HPC · Git
+Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · MATLAB · Linux/HPC · Git
 
 ---
 
 ### Featured Project
 
-**Beyond Quadratic: Efficient Transformer Attention** *(private repo at the moment - happy to share access on request)*
+**Beyond Quadratic: Efficient Transformer Attention** *(private repo — happy to share access on request)*
 
 Implemented four Transformer attention mechanisms (standard, Longformer, Linformer, Reformer) entirely from scratch in PyTorch — no pre-built libraries — and benchmarked them on an HPC cluster using NVIDIA H100 GPUs.
 
@@ -26,6 +26,7 @@ Implemented four Transformer attention mechanisms (standard, Longformer, Linform
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
