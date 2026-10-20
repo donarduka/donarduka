@@ -1,27 +1,33 @@
 # Donard Uka
 
-MSc Computer Science, University of Liverpool. Focused on ML Engineering and efficient deep learning systems.
-BEng Electronic & Computer Engineering → MSc Computer Science.
+MSc Computer Science, University of Liverpool, specialising in machine learning and deep learning.
+BEng Electronic and Computer Engineering (University of Kent) → MSc Computer Science.
+
 Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · MATLAB · Linux/HPC · Git
 
 ---
 
-### Featured Project
+### Featured project
 
-**Beyond Quadratic: Efficient Transformer Attention** *(private repo — happy to share access on request)*
+**[Beyond Quadratic: Efficient Transformer Attention](https://github.com/donarduka/efficient-transformer-attention)**
+*MSc dissertation, graded Distinction*
 
-Implemented four Transformer attention mechanisms (standard, Longformer, Linformer, Reformer) entirely from scratch in PyTorch — no pre-built libraries — and benchmarked them on an HPC cluster using NVIDIA H100 GPUs.
+Implemented standard attention, Longformer, Linformer and Reformer from scratch in PyTorch (no pre-built attention libraries) and benchmarked them under identical conditions on NVIDIA H100 GPUs on a SLURM-managed HPC cluster.
 
-- Achieved a **~10x reduction in peak memory usage** (8,460MB → 841MB) with comparable accuracy
-- 18 unit tests across all four variants, validating correctness before evaluation
-- Found that standard attention becomes **completely infeasible** (OOM) at longer sequence lengths — an empirical finding, not just a replication
-- Full results, training curves, and complexity analysis in the repo
+- Shared encoder design, so the attention mechanism is the only variable between experiments
+- Reformer cut peak GPU memory by about 10x compared with full attention on ListOps (8,460 MB → 841 MB at 2,048 tokens)
+- 18 unit tests across the four variants, with every experiment repeated over three random seeds
+- Results, training curves and a sequence-length benchmark are in the repo
 
-`PyTorch` `Deep Learning` `HPC` `Transformers` `Experiment Design`
+`PyTorch` `Deep Learning` `Transformers` `HPC` `Experiment Design`
+
+### Other work
+
+**Deep reinforcement learning agent:** a DQN agent for LunarLander in PyTorch, with experience replay, a soft-updated target network, Huber loss and gradient clipping.
 
 ---
 
-### Tech Stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
