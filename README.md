@@ -1,7 +1,9 @@
 # Donard Uka
 
-MSc Computer Science, University of Liverpool, specialising in machine learning and deep learning.
-BEng Electronic and Computer Engineering (University of Kent) → MSc Computer Science.
+MSc Computer Science graduate (University of Liverpool) focused on efficient machine learning, based in Manchester.
+
+I build and benchmark deep learning models in PyTorch, and write tested, type-checked Python with automated CI. Background in Electronic and Computer Engineering (BEng, University of Kent).
+
 ---
 
 ### Featured project
