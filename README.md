@@ -2,9 +2,6 @@
 
 MSc Computer Science, University of Liverpool, specialising in machine learning and deep learning.
 BEng Electronic and Computer Engineering (University of Kent) → MSc Computer Science.
-
-Python · PyTorch · TensorFlow · scikit-learn · NumPy · SQL · MATLAB · Linux/HPC · Git
-
 ---
 
 ### Featured project
@@ -36,6 +33,8 @@ Implemented standard attention, Longformer, Linformer and Reformer from scratch 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
